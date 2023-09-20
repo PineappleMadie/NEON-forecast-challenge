@@ -82,3 +82,6 @@ This can take a few minutes to download and install. It will be quicker the next
 You can close this localhost window (and then come back to it) but if you close the container from Docker (turn off your computer etc.) any changes will be lost unless you push them to Github or exported to your local environment.
 
 Then follow the instructions for Getting the Code above (`2. Get the Code`). 
+
+
+For information on data go here: https://projects.ecoforecast.org/neon4cast-docs/
