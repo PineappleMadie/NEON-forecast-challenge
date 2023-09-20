@@ -23,7 +23,7 @@ The following packages need to be installed using the following code.
 install.packages('remotes')
 install.packages('tidyverse') # collection of R packages for data manipulation, analysis, and visualisation
 install.packages('lubridate') # working with dates and times
-remotes::install_github('eco4cast/neon4cast') # package from NEON4cast challenge organisers to assist with forecast building and submission
+remotes::install_github('eco4cast/neon4cast', force = TRUE) # package from NEON4cast challenge organisers to assist with forecast building and submission and forcing it to be installed
 ```
 
 ## 2. Get the code
